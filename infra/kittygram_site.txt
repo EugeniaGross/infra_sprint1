@@ -1,0 +1,5 @@
+ IP: 158.160.74.54;
+ name_taski: https://taski-project.zapto.org/;
+ name_kittygram: https://kitty-kittygram.sytes.net/;
+ login: user;
+ password: unenes_47;
